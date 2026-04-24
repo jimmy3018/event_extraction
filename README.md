@@ -10,6 +10,7 @@ It combines:
 * Multi-task learning (POS, NER, Trigger, Arguments)
 
 ⸻
+DATASET: train.json and test.json
 
 🚀 Features
 
